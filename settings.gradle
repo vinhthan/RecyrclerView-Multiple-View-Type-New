@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "RecyrclerView Multiple View Type"
